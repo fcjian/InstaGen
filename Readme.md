@@ -1,7 +1,7 @@
 <div align="center">
   
 # InstaGen: Enhancing Object Detection by Training on Synthetic Dataset
-[[Paper]()]
+[[Paper](https://arxiv.org/abs/2402.05937)]
 [[Project Page](https://fcjian.github.io/InstaGen)]
 <be>
 </div>
@@ -30,7 +30,7 @@ If you find InstaGen useful in your research, please consider citing:
 @inproceedings{feng2024instagen,
     title={InstaGen: Enhancing Object Detection by Training on Synthetic Dataset},
     author={Feng, Chengjian and Zhong, Yujie and Jie, Zequn and Xie, Weidi and Ma, Lin},
-    journal={arxiv},
+    journal={arXiv preprint arXiv:2402.05937},
     year={2024}
 }
 ```
