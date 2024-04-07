@@ -1,0 +1,17 @@
+logs/
+dump/
+outputs/
+flagged/
+*.egg-info
+__pycache__
+*.zip
+*.ckpt
+*.mp4
+*.pth
+.ipynb_checkpoints/
+src/
+.vscode/
+im-examples/
+# datasets
+scratch/
+checkpoints/
