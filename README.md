@@ -51,7 +51,7 @@ sh instagen_scripts/demo_instagen.sh
 
 ## Fine-tune SDM
 1. Download the [COCO](https://cocodataset.org/) dataset to 'mmdetection/data/coco'
-2. Download the [annotations](https://drive.google.com/file/d/1C41YDwP23Lh2pU33O_NNCaboMIdyt0Gv/view?usp=sharing) of the base categories to 'mmdetection/data/coco/annotations/'
+2. Download the [annotation](https://drive.google.com/file/d/1C41YDwP23Lh2pU33O_NNCaboMIdyt0Gv/view?usp=sharing) of the base categories to 'mmdetection/data/coco/annotations/'
 3. Download the original model weights of SDM, listed as [sd-v1-4-full-ema.ckpt](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original/blob/main/sd-v1-4-full-ema.ckpt), to 'checkpoints/stable-diffusion-v-1-4-original/'
 4. Fine-tune SDM:
 ```
