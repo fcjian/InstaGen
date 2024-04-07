@@ -102,7 +102,7 @@ For your convenience, we provide the synthetic dataset and the trained models in
 1. The synthetic dataset can be downloaded [here]()
 2. Models
 
-Model | AP<sub>all | AP<sub>base | AP<sub>novel | Download
+Model | AP50<sub>all | AP50<sub>base | AP50<sub>novel | Download
 --- |:---:|:---:|:---:|:---:
 [Fine-tuned SDM](configs/sd-finetune/coco_base.yaml) | -- | -- | -- | [google]()
 [InstaGen](mmdetection/configs/instagen/instagen-4scale_fd_8xb2-12e_coco.py) | -- | -- | -- | [google](https://drive.google.com/file/d/1mAGlcdodboJwiGHLp9DfGDaMyDPweLQu/view?usp=sharing)
