@@ -99,10 +99,10 @@ sh instagen_scripts/infer_detector.sh
 
 # Dataset & Models
 For your convenience, we provide the synthetic dataset and the trained models in the open-vocabulary COCO benchmark.
-1. The synthetic dataset can be downloaded [here]()
+1. The synthetic dataset can be downloaded [here](https://drive.google.com/file/d/1Qu-Q36DD_ih3otsmw6nRAsUX_L-nBxxC/view?usp=sharing)
 2. Models
 
-Model | AP50<sub>all | AP50<sub>base | AP50<sub>novel | Download
+Model | AP50<sub>all</sub> | AP50<sub>base</sub> | AP50<sub>novel</sub> | Download
 --- |:---:|:---:|:---:|:---:
 [Fine-tuned SDM](configs/sd-finetune/coco_base.yaml) | -- | -- | -- | [google]()
 [InstaGen](mmdetection/configs/instagen/instagen-4scale_fd_8xb2-12e_coco.py) | -- | -- | -- | [google](https://drive.google.com/file/d/1mAGlcdodboJwiGHLp9DfGDaMyDPweLQu/view?usp=sharing)
