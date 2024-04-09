@@ -101,7 +101,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--save_path",
         type=str,
-        default="mmdetection/instagen_resources/coco_classes_debug.pt",
+        default="mmdetection/instagen_resources/coco_classes.pt",
         help="path to save the class embeddings",
     )
     
