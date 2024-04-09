@@ -104,7 +104,7 @@ For your convenience, we provide the synthetic dataset and the trained models in
 
 Model | AP50<sub>all</sub> | AP50<sub>base</sub> | AP50<sub>novel</sub> | Download
 --- |:---:|:---:|:---:|:---:
-[Fine-tuned SDM](configs/sd-finetune/coco_base.yaml) | -- | -- | -- | [google]()
+[Fine-tuned SDM](configs/sd-finetune/coco_base.yaml) | -- | -- | -- | [google](https://drive.google.com/file/d/1sJizh8Jlg7XXfdX47l3lApTYepWlfZPy/view?usp=sharing)
 [InstaGen](mmdetection/configs/instagen/instagen-4scale_fd_8xb2-12e_coco.py) | -- | -- | -- | [google](https://drive.google.com/file/d/1mAGlcdodboJwiGHLp9DfGDaMyDPweLQu/view?usp=sharing)
 [Faster RCNN](mmdetection/configs/instagen/faster-rcnn_r50-caffe_c4-1x_coco-ovd_instagen-dataset.py) | 52.2 | 55.7 | 42.4 | [google](https://drive.google.com/file/d/1W2n38jxdkhbOfog3HVezbYm_Xt65PxSm/view?usp=sharing)
 
